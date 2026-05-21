@@ -1,9 +1,9 @@
 # Rainwater Harvesting Pre-Filtration System
 
-**Hybrid Meshed Gutter + Downpipe Gravel Filter**  
+**Hybrid Gutter + Meshed Filter**  
 **Principles of Engineering Design** – BSc. Mechatronic Engineering, JKUAT
 
-![Final Assembly Render](assets/images/final-assembly.png)
+![Final Assembly Render](pre-filter_assembly-render.png)
 
 ## Overview
 A modular 3-part uPVC downpipe pre-filtration system designed to remove leaves, dust, bird droppings and suspended particles before water enters storage tanks. Combines coarse mesh screening with gravel filtration for **90–95% debris removal**.
